@@ -1,0 +1,44 @@
+_repo: The-Storm_7991
+_version: 0.0.1
+alternative_title: Groza. English
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+creator:
+  author:
+    agent_name: Ostrovsky, Aleksandr Nikolaevich
+    aliases:
+    - Ostrovsky, Alexander
+    - Ostrovsky, Aleksandr Nicolaevich
+    - Островский, Александр Николаевич
+    - Ostrowski, Aleksander
+    - Ostrowskij, A. N.
+    birthdate: 1823
+    deathdate: 1886
+    gutenberg_agent_id: '2619'
+    url: http://www.gutenberg.org/2009/agents/2619
+    wikipedia: http://en.wikipedia.org/wiki/Alexandr_Ostrovsky
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Drama'
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into English'
+- GITenberg
+title: The Storm
+url: http://www.gutenberg.org/ebooks/7991
