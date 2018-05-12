@@ -1,5 +1,5 @@
 _repo: The-Storm_7991
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Groza. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Constance_Garnett
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ostrovsky, Aleksandr Nikolaevich
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2619
     wikipedia: http://en.wikipedia.org/wiki/Alexandr_Ostrovsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7991#The-Storm
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
